@@ -1,4 +1,4 @@
-<div align="lef">
+<div align="center">
     <img align="center" src="https://avatars.githubusercontent.com/u/91038761?v=4" alt="logo" width="200">
     <h1 align="center">whwdzg</h1>
     </p>
