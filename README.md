@@ -7,7 +7,7 @@
     </br>
 </div>
 
-[![(https://raw.githubusercontent.com/whwdzg/whwdzg/output/github-contribution-grid-snake.svg)
+[![Github Snake](https://raw.githubusercontent.com/whwdzg/whwdzg/output/github-contribution-grid-snake.svg)]
 [![whwdzg's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwdzg)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whwdzg)](https://github.com/anuraghazra/github-readme-stats)
