@@ -8,7 +8,7 @@
 </div>
 
 ![Github Contribution](https://raw.githubusercontent.com/whwdzg/whwdzg/output/github-contribution-grid-snake.svg)
-[![whwdzg's GitHub stats light](https://github-readme-stats.vercel.app/api?username=whwdzg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/whwdzg)
+[![whwdzg's GitHub stats light](https://github-readme-stats.vercel.app/api?username=whwdzg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/whwdzg#gh-light-mode-only)
 [![whwdzg's GitHub stats dark](https://github-readme-stats.vercel.app/api?username=whwdzg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/whwdzg#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe&show_owner=true)](https://github.com/whwdzg/whwdzg-s_recipe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe-ModLists&show_owner=true)](https://github.com/whwdzg/whwdzg-s_recipe-ModLists)
