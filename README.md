@@ -8,7 +8,7 @@
 </div>
 
 ![Github Contribution](https://raw.githubusercontent.com/whwdzg/whwdzg/output/github-contribution-grid-snake.svg)
-[![whwdzg's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwdzg&show_icons=true)](https://github.com/whwdzg)
+[![whwdzg's GitHub stats](https://github-readme-stats.vercel.app/api?username=whwdzg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/whwdzg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe&show_owner=true)](https://github.com/whwdzg/whwdzg-s_recipe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe-ModLists&show_owner=true)](https://github.com/whwdzg/whwdzg-s_recipe-ModLists)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg.github.io&show_owner=true)](https://github.com/whwdzg/whwdzg.github.io)
