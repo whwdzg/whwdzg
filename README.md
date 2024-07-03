@@ -3,8 +3,9 @@
     <h1 align="center">whwdzg</h1>
     </p>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/whwdzg">
+    <br>
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/whwdzg">
-    </br>
+    <br>
 </div>
 
 ![Github Contribution](https://raw.githubusercontent.com/whwdzg/whwdzg/output/github-contribution-grid-snake.svg)
