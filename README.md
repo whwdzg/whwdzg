@@ -15,6 +15,9 @@
 [![Readme Card 1 light](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/whwdzg/whwdzg-s_recipe#gh-light-mode-only)
 [![Readme Card 1 dark](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg-s_recipe&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/whwdzg/whwdzg-s_recipe#gh-dark-mode-only)
 <br>
+[![Readme Card 1 light](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=better_mob_drop&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/whwdzg/better_mob_drop#gh-light-mode-only)
+[![Readme Card 1 dark](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=better_mob_drop&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/whwdzg/better_mob_drop#gh-dark-mode-only)
+<br>
 [![Readme Card 2 light](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg.github.io&show_owner&theme=default#gh-light-mode-only)](https://github.com/whwdzg/whwdzg.github.io#gh-light-mode-only)
 [![Readme Card 2 dark](https://github-readme-stats.vercel.app/api/pin/?username=whwdzg&repo=whwdzg.github.io&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/whwdzg/whwdzg.github.io#gh-dark-mode-only)
 <br>
